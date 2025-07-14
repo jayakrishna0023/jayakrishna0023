@@ -1,111 +1,91 @@
-<!-- Title + Animated Graphic -->
-<h1 align="center">👋 Hey there, I'm **Jaya Krishna S**!</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Enthusiast+|+Blockchain+Coder+|+Full‑Stack+Developer" alt="typing animation" />
-</h3>
-
-🚀Check out my GitHub: <a href="https://github.com/jayakrishna"><b>jayakrishna</b></a> | 🎯 Let's innovate together!
-
----
-
-## 👨‍💻 About Me
-- 🎯 Focused on **AI, ML, Full‑Stack & Blockchain**  
-- 🔭 Currently working on an **AI‑driven chatbot** built with FastAPI & React  
-- 🌱 Learning **Web3, Decentralized Systems & Reinforcement Learning**  
-- 🤝 Open to collaborating on **innovative AI tools & blockchain apps**  
-- 📫 Reach me at: **jayakrishna0023@gmail.com**  
-- ✨ Fun fact: I love blending **data science with creative design** 🎨
-
----
-
-## 🌐 Social Media
+<!-- Banner + Typing Animation -->
 <p align="center">
-  <a href="https://instagram.com/jai___k_u_t_t_y"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jaya-krishna-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Jayakrishna0023"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
+  <img src="https://your-cool-banner-image-url.com/banner.gif" alt="Perumal Hacker Banner" width="100%" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=600&lines=👋+Hi,+I%27m+Perumal‑Hacker;💻+Full‑Stack+Dev+|+DSA+Specialist;🚀+Building+Impactful+Tools" alt="typing animation">
 </p>
 
 ---
 
-## 💻 Tech Stack & Tools
+<h3 align="center">💻 Perumal Hacker</h3>
+<h4 align="center">Full‑Stack Developer | LeetCode 🧠 | Data Structures & Algorithms Guru</h4>
 
-<details>
-<summary>🕸 Web & Frontend</summary>
+---
+
+## 👋 About Me
+Hi there! I’m **Perumal**, a CSE student and full-stack engineer with a passion for open source and DS‑A.
+- 🎓 **Student @** K.S. Rangasamy College of Tech (CSE, 2022–2026) – CGPA: 8.20  
+- 💡 **Mission**: Create helpful public tools, empower peers to upskill early, automate dev tasks  
+- 🔭 **Currently** building DS/A tools, GitHub dashboards, LeetCode visualizers & developer automation  
+
+---
+
+## 🎯 What I’m Doing
+- ⚙️ **Building**: Chrome Extension (Tailwind), E‑Commerce (MERN), Real‑time Chat w/ Socket.io, Snake Game 🐍  
+- 📚 **Honing**: DS/A, DP, System Design, API architecture & DevOps fundamentals  
+- 🛠️ **Experimenting**: GitHub + Supabase + Vercel + GitHub APIs automations  
+
+---
+
+## 🚀 Tech Stack
+
+<details><summary>💡 Languages & Core</summary>
 <p>
-  ![HTML5](...)&nbsp;![CSS3](...)&nbsp;![JavaScript](...)&nbsp;![React](...)  
-  ![Bootstrap](...)&nbsp;![Figma](...)&nbsp;![Canva](...)
+Java • JavaScript • TypeScript • Python • C
 </p>
 </details>
 
-<details>
-<summary>🧠 AI / ML</summary>
+<details><summary>🌐 Web & Backend</summary>
 <p>
-  ![Python](...)&nbsp;![NumPy](...)&nbsp;![Pandas](...)&nbsp;![TensorFlow](...)&nbsp;![PyTorch](...)  
-  ![scikit-learn](...)&nbsp;![FastAPI](...)&nbsp;![mlflow](...)
+Node.js • Express.js • React • MongoDB • Supabase • REST APIs
 </p>
 </details>
 
-<details>
-<summary>🗄️ Backend & Databases</summary>
+<details><summary>🛠 Tools & Frameworks</summary>
 <p>
-  ![Django](...)&nbsp;![FastAPI](...)&nbsp;![MySQL](...)&nbsp;![MongoDB](...)&nbsp;![SQLite](...)
-</p>
-</details>
-
-<details>
-<summary>🎨 Design & Ops</summary>
-<p>
-  ![Blender](...)&nbsp;![Adobe](...)&nbsp;![Google Cloud](...)&nbsp;![Cloudflare](...)
+Git • GitHub • Bootstrap • Tailwind CSS • jQuery
 </p>
 </details>
 
 ---
 
-## 🚦 Stats & Highlights
+## 🧠 Featured Projects
 
+| Name               | 🛠️ Tech Used            | 🔗 Demo / Repo |
+|--------------------|--------------------------|----------------|
+| Chrome Extension   | Tailwind, JS             | [Demo](#) • [Code](#) |
+| Snake Game         | HTML, CSS, JS            | [Live](#) • [Code](#) |
+| E‑Commerce App     | MERN Stack, JWT Auth     | [Demo](#) • [Code](#) |
+| MERN Chat App      | MERN, Socket.io          | [Demo](#) • [Code](#) |
+| RESTful CRUD App   | Node, Express, MongoDB   | [Demo](#) • [Code](#) |
+
+---
+
+## 🏆 Achievements & Events
+
+- 🎖 LeetCode: Solved **250+ problems**, focus on DS/A, DP, systems  
+- 🥇 Hackathons: Finalist – Techathon 2024, Participant – Bhumi & Smart India Hackathons  
+- 🏅 Competitions: Active in coding contests & tech symposiums
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayakrishna&theme=radical&show_icons=true&count_private=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishna&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perumal-hacker&theme=radical&show_icons=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perumal-hacker&theme=radical" width="45%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perumal-hacker&theme=radical&layout=compact" width="45%" />
 </p>
 
+---
+
+## 💬 Let’s Connect!
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayakrishna&theme=radical&no-frame=true&margin-w=10" />
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:perumal@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-F79F1B?logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
 
-### ✍️ Inspirational Quote  
-> “​Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-### 🔝 Top Repos  
-| Repository | Description |
-|-----------|-------------|
-| 🤖 AI‑Chatbot | FastAPI + React chatbot with NLP & vector search |
-| 🧠 ML‑Toolkit | Jupyter‑based ML models + Nuanced visualizations |
-| 💾 Web3‑Demo | Smart contract with frontend wallet integration |
-
----
-
-### 🎥 Highlights
-![AI Chatbot Demo](https://user-images.githubusercontent.com/…/chatbot-demo.gif)
-
----
-
-## 💼 What’s Next
-- 🚀 Launching my first **decentralized AI app**  
-- 💡 Exploring **reinforcement learning** for recommendation systems  
-- 🛠️ Building an **ML ops pipeline** with mlflow and cloud deployments
-
----
-
-## 📘 Let's Connect!
-
-- ✉️ Email: **jayakrishna0023@gmail.com**  
-- 💬 LinkedIn/Twitter/Instagram: Let’s discuss ideas or collab!  
-- 🌟 Always open to **project collabs & mentoring**
-
----
-
-<p align="center">🛠️ Created with a mix of .SVG animations, GitHub stats, GIF demos & Markdown magic!</p>
+<p align="center">✨ Built with passion using SVG animations, GIF banners, and Markdown magic!</p>
