@@ -7,7 +7,6 @@
 
 ---
 
-<h1 align="center">Hi I’m <span style="color: #4CAF50">Jayakrishna</span> 👋</h1>
 <h3 align="center">AI Enthusiast • Full‑Stack Developer • Blockchain Explorer</h3>
 
 ---
