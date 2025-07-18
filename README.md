@@ -1,103 +1,105 @@
-<!-- 🎨 Animated Banner + Typing SVG -->
-<p align="center">
-  <img src="https://your-awesome-banner-url.com/animated-banner.gif" alt="Jayakrishna Banner" width="100%" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=600&lines=👋+Hi,+I’m+Jayakrishna!;💻+AI,+ML,+Full‑Stack+&+Blockchain+Dev;🚀+Building+Cool+Web+&+AI+Apps" alt="typing animation" />
+# 🚀 Jaya Krishna S | AI Enthusiast | Blockchain Innovator | Full-Stack Explorer
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey+Techies+👋;I'm+Jaya+Krishna+S!;AI+%2B+Blockchain+Developer;Building+Impactful+Solutions+Everyday)
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20Jaya's%20GitHub!&fontSize=32&fontColor=ffffff)
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=jayakrishnaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishnaofficial" />
 </p>
-
----
-
-<h3 align="center">AI Enthusiast • Full‑Stack Developer • Blockchain Explorer</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Specialist in **AI, ML, Full‑Stack & Blockchain** development  
-- 🔭 Currently working on an **AI‑driven chatbot** powered by FastAPI & React  
-- 🌱 Learning **Web3, Decentralized Systems & Reinforcement Learning**  
-- 🤝 Open to collaborating on **cutting-edge AI tools, blockchain apps & realtime web projects**  
-- 📫 Reach me at: **jayakrishna0023@gmail.com**  
-- ✨ Fun fact: I blend **data science with creative design** to craft intelligent, beautiful apps
+
+Hi, I’m **Jaya Krishna S**, a passionate **AI Intern**, **Blockchain Developer**, and **Tech Innovator** with a knack for solving real-world problems using advanced technologies 🚀. I love turning complex systems into simple, scalable products.
+
+- 🎓 **B.E. CSE @ K.S. Rangasamy College of Technology (2022–2026)**
+- 💬 **Known For**: Smart Tribal Farming, Kalki AI-Guide NPC, Scam Detection LLM 🔍
+- 🧠 **Learning**: Ethereum ⚙️ | IPFS 🔗 | Quantum Computing 🧮 | Java DSA 🔥
+- 🔗 **Focus Areas**: AI Chatbots 🤖 | Blockchain Ledgers 📜 | Educational Tech for Good 🎓
+- 🌟 **Goal**: Build tech for *impact*, not just features!
 
 ---
 
-## 🌟 Live Projects
-| Project                                   | Description                                | Link |
-|------------------------------------------|--------------------------------------------|------|
-| 🎓 **CertainTiai – AI Cert Coach**        | Personalized AI tutoring platform           | [Visit Live](https://certaintiai.jayakrishna.tech/) |
-| ☔ **WeatherNow**                          | Real-time weather dashboard with API design | [Check it Out](https://weather.jayakrishna.xyz/) |
-| 🍲 **Unavu Advisor**                      | Nutrition & food recommendation app         | [Explore](https://unavu.infixhitechinnovations.com/) |
+## 🛠️ Tech Stack
+
+### 💡 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Web & Backend
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
+
+### 🔗 Blockchain & Infra
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2C3743?style=for-the-badge&logo=hyperledger&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+### 🎨 UI/UX & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🧠 Highlight Projects
 
-<details><summary>💻 Languages & Back‑end</summary>
-<p>
-Python • JavaScript • Java • C • TypeScript  
-FastAPI • Django • Node.js • Express.js
-</p>
-</details>
+- 🔗 **Smart Tribal Farming Using Blockchain**  
+  Blockchain-based product tracking system for tribal farmers and seafood industries 🌾  
+  _Stack_: Flask, CouchDB, QR + Blockchain Ledger
 
-<details><summary>🌐 Front‑end & UI</summary>
-<p>
-React • HTML5 • CSS3 • Tailwind CSS • Bootstrap • jQuery
-</p>
-</details>
+- 🧠 **KALKI – AI Guide for Govt Students**  
+  Voice-based assistant chatbot to deliver education + schemes in native language 🎓  
+  _Stack_: JavaScript, HTML/CSS, Groq API
 
-<details><summary>🧠 AI / ML</summary>
-<p>
-NumPy • Pandas • scikit‑learn • TensorFlow • PyTorch • mlflow • Matplotlib • Plotly
-</p>
-</details>
+- 🔍 **Scam Detection LLM Model**  
+  Custom AI model that predicts & flags fake ads for a legal compliance company  
+  _First-of-its-kind scam prediction system in India!_
 
-<details><summary>🛠 Databases & DevOps</summary>
-<p>
-MongoDB • MySQL • SQLite • Supabase • AWS / Google Cloud • Vercel • Render • Cloudflare
-</p>
-</details>
+- 📊 **Tax Credits Analysis Bot** (Intern @ Certainti.ai)  
+  Automates report generation using Perplexity API + JS integration
 
-<details><summary>🎨 Tools & Design</summary>
-<p>
-Figma • Canva • Blender • Adobe Lightroom & Illustrator • Raspberry Pi
-</p>
-</details>
+- 💬 **Medical Advice Chatbot**  
+  Health assistant for medicine suggestions in Tamil + English 🌐  
+  _Voice + Text support | Secure | Fast_
 
 ---
 
-## 🎥 Showcase Preview
-<!-- Replace the URL below with your project demo GIF -->
+## 🏆 Achievements
+
+- 🥇 Best Student Innovator 2025 – Finalist 🏆
+- 🚀 2× Internship Completed: AI Compliance & Earthy Origin
+- 🧠 Quantum Computing & Java DSA Explorer
+- 👨‍💻 Consistent 30-day LinkedIn AI Series – **#Cypher30**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://your-awesome-demo-gif.com/jayakrishna-demo.gif" alt="Project Demo" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayakrishnaofficial&show_icons=true&theme=radical" height="170" />
+  <img src="https://streak-stats.demolab.com?user=jayakrishnaofficial&theme=radical" height="170" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Highlights
+## 📣 Let's Collaborate
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayakrishna&theme=radical&show_icons=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishna&theme=radical" width="45%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishna&theme=radical&layout=compact" width="45%" />
+  <a href="https://linkedin.com/in/jaya-krishna-s" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jayakrishnaofficial@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
+_Thanks for visiting 🚀 Let’s build meaningful tech together 💡_
 
-## 🛠 What’s Next?
-- 🚀 Launching a **decentralized AI Web3 app**  
-- 🔐 Diving deeper into **Blockchain security & smart contracts**  
-- 🤖 Expanding chatbot features with **Reinforcement Learning**
-
----
-
-## ✨ Let’s Connect!
-<p align="center">
-  <a href="https://instagram.com/jai___k_u_t_t_y"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jaya-krishna-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Jayakrishna0023"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">✨ Built with heart, code & creativity — bringing AI, web and blockchain to life!</p>
