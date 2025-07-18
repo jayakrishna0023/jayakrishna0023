@@ -1,105 +1,110 @@
-# 🚀 Jaya Krishna S | AI Enthusiast | Blockchain Innovator | Full-Stack Explorer
+# 🚀 Jaya Krishna S | AI/ML Engineer | Blockchain Developer | Full-Stack Problem Solver
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey+Techies+👋;I'm+Jaya+Krishna+S!;AI+%2B+Blockchain+Developer;Building+Impactful+Solutions+Everyday)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hello+Tech+World!+👋;I'm+Jaya+Krishna+S!;AI+%2B+Blockchain+Developer+from+India;Building+Real-Time+ML+Apps+and+Smart+Ledgers)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20Jaya's%20GitHub!&fontSize=32&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32&fontColor=ffffff)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=jayakrishnaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishnaofficial" />
+<img src="https://komarev.com/ghpvc/?username=jayakrishna0023&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishna0023" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Jaya Krishna S**, a passionate **AI Intern**, **Blockchain Developer**, and **Tech Innovator** with a knack for solving real-world problems using advanced technologies 🚀. I love turning complex systems into simple, scalable products.
+Hey! I’m **Jaya Krishna S**, an enthusiastic **AI/ML Engineer** and **Python–Java Developer** with experience transforming research models into real-time solutions on the **Google Cloud Platform (GCP)** 🚀
 
-- 🎓 **B.E. CSE @ K.S. Rangasamy College of Technology (2022–2026)**
-- 💬 **Known For**: Smart Tribal Farming, Kalki AI-Guide NPC, Scam Detection LLM 🔍
-- 🧠 **Learning**: Ethereum ⚙️ | IPFS 🔗 | Quantum Computing 🧮 | Java DSA 🔥
-- 🔗 **Focus Areas**: AI Chatbots 🤖 | Blockchain Ledgers 📜 | Educational Tech for Good 🎓
-- 🌟 **Goal**: Build tech for *impact*, not just features!
+- 🎓 B.E. in Artificial Intelligence & Machine Learning – K.S. Rangasamy College of Technology (2022–2026)
+- 🔍 Passion: AI chatbots 🤖 | Blockchain Supply Chain 🔗 | AR/VR learning tech 🕶️
+- 🛠️ I build ML-powered, cloud-deployed, and impact-driven tools for real users
+- 🧠 Goal: Turn complex models into simple experiences
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💡 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💡 Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🌐 Web & Backend
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
+### ⚙️ Frameworks & ML  
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🔗 Blockchain & Infra
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+### 🌐 Blockchain & Database  
 ![Hyperledger](https://img.shields.io/badge/Hyperledger-2C3743?style=for-the-badge&logo=hyperledger&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🎨 UI/UX & Tools
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🛠️ Dev & Testing  
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🧠 Highlight Projects
-
-- 🔗 **Smart Tribal Farming Using Blockchain**  
-  Blockchain-based product tracking system for tribal farmers and seafood industries 🌾  
-  _Stack_: Flask, CouchDB, QR + Blockchain Ledger
-
-- 🧠 **KALKI – AI Guide for Govt Students**  
-  Voice-based assistant chatbot to deliver education + schemes in native language 🎓  
-  _Stack_: JavaScript, HTML/CSS, Groq API
-
-- 🔍 **Scam Detection LLM Model**  
-  Custom AI model that predicts & flags fake ads for a legal compliance company  
-  _First-of-its-kind scam prediction system in India!_
-
-- 📊 **Tax Credits Analysis Bot** (Intern @ Certainti.ai)  
-  Automates report generation using Perplexity API + JS integration
-
-- 💬 **Medical Advice Chatbot**  
-  Health assistant for medicine suggestions in Tamil + English 🌐  
-  _Voice + Text support | Secure | Fast_
+### 🎮 AR/VR  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## 🚀 Projects
 
-- 🥇 Best Student Innovator 2025 – Finalist 🏆
-- 🚀 2× Internship Completed: AI Compliance & Earthy Origin
-- 🧠 Quantum Computing & Java DSA Explorer
-- 👨‍💻 Consistent 30-day LinkedIn AI Series – **#Cypher30**
+- 🌾 **Smart Tribal Farming Ledger** – Blockchain system ensuring secure, fraud-proof tracking of farm produce  
+- 🧠 **AGARA Chatbot** – Multilingual farming assistant answering thousands of real farmer questions  
+- 🛰️ **CypherXpert** – AI engine combining satellite + weather to create live crop and soil reports  
+- 💓 **Nexus Pulse** – Edge AI for heart monitoring with real-time arrhythmia alerts  
+- 🧭 **Kalki AR/VR Guide** – Immersive voice-guided cultural tour avatar built in Unity/Unreal  
+- 🧬 **Food & Health Predictor** – AI model offering nutrition suggestions and disease risk predictions
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍🔬 Internships
+
+### 🛒 AI Intern @ Earthy Origin (Aug 2024 – Oct 2024)  
+- Built AI shopping assistant replacing CRM chatbot  
+- Integrated LLM with product catalog & payment system  
+- Rolled out across web & mobile stores 💻📱
+
+### 🔎 AI Algorithm Developer @ ANB Consultancy (Jan 2025 – Mar 2025)  
+- Created India’s **first scam-predicting LLM**  
+- Automated compliance flagging and legal report generation  
+- 100% review automation on GCP ⚡
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **1st Prize** – Intra-college hackathon (Team Catalyst)  
+- 💡 **Finalist** – Bhumi Hackathon (Academic Monitoring System)  
+- 🏅 **Nominated** – SARVAM Best Student Innovator  
+- 📜 Google Certified: Python, Cybersecurity  
+- 📘 NPTEL Python for Data Science
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayakrishnaofficial&show_icons=true&theme=radical" height="170" />
-  <img src="https://streak-stats.demolab.com?user=jayakrishnaofficial&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayakrishna0023&show_icons=true&theme=radical" height="170" />
+  <img src="https://streak-stats.demolab.com?user=jayakrishna0023&theme=radical" height="170" />
 </p>
 
 ---
 
-## 📣 Let's Collaborate
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/jaya-krishna-s" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jayakrishnaofficial@gmail.com" target="_blank">
+  <a href="mailto:jayakrishna0023@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/jayakrishna-SAC" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
-_Thanks for visiting 🚀 Let’s build meaningful tech together 💡_
+---
 
+_Thanks for visiting! Let’s build the future together 💡🚀_
